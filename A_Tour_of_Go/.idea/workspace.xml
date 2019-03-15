@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36bffc06-ebc6-403b-8a5e-8ed3dfe63393" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/constants.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numeric-constants.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-inference.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages.go" beforeDir="false" afterPath="$PROJECT_DIR$/packages.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Tour_of_Go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/A_Tour_of_Go.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/basic-types.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/constants.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/exported-names.go" beforeDir="false" afterPath="$PROJECT_DIR$/exported-names.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/functions-continued.go" beforeDir="false" afterPath="$PROJECT_DIR$/functions-continued.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/functions.go" beforeDir="false" afterPath="$PROJECT_DIR$/functions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/import.go" beforeDir="false" afterPath="$PROJECT_DIR$/import.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/multiple.results.go" beforeDir="false" afterPath="$PROJECT_DIR$/multiple.results.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/named-results.go" beforeDir="false" afterPath="$PROJECT_DIR$/named-results.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/numeric-constants.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/packages.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/short-variable-declarations.go" beforeDir="false" afterPath="$PROJECT_DIR$/short-variable-declarations.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/type-conversions.go" beforeDir="false" afterPath="$PROJECT_DIR$/type-conversions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/type-inference.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/variables-with-initalizers.go" beforeDir="false" afterPath="$PROJECT_DIR$/variables-with-initalizers.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/variables.go" beforeDir="false" afterPath="$PROJECT_DIR$/variables.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics_Packages,variables,and functions/zero.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,13 +37,58 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic-types.go">
+        <entry file="file://$PROJECT_DIR$/Basics_Flow control statements: for, if, else,switch and defer/for.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#14#45#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multiple.results.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/import.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions-continued.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exported-names.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-types.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/variables.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zero.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -64,6 +130,9 @@
         <option value="$PROJECT_DIR$/type-inference.go" />
         <option value="$PROJECT_DIR$/constants.go" />
         <option value="$PROJECT_DIR$/numeric-constants.go" />
+        <option value="$PROJECT_DIR$/Basics_Packages,variables,and functions/constants.go" />
+        <option value="$PROJECT_DIR$/Basics_Packages,variables,and functions/basic-types.go" />
+        <option value="$PROJECT_DIR$/Basics_Flow control statements: for, if, else,switch and defer/for.go" />
       </list>
     </option>
   </component>
@@ -104,6 +173,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Basics_Packages,variables,and functions" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -116,36 +190,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build numeric-constants.go">
-    <configuration name="go build constants.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build functions-continued.go">
+    <configuration name="go build basic-types.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="A_Tour_of_Go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/constants.go" />
+      <filePath value="$PROJECT_DIR$/Basics_Packages,variables,and functions/basic-types.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build numeric-constants.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build constants.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="A_Tour_of_Go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/numeric-constants.go" />
+      <filePath value="$PROJECT_DIR$/Basics_Packages,variables,and functions/constants.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build type-conversions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build for.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="A_Tour_of_Go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/type-conversions.go" />
+      <filePath value="$PROJECT_DIR$/Basics_Flow control statements: for, if, else,switch and defer/for.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build type-inference.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build functions-continued.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="A_Tour_of_Go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/type-inference.go" />
+      <filePath value="$PROJECT_DIR$/Basics_Packages,variables,and functions/functions-continued.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -159,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build numeric-constants.go" />
-        <item itemvalue="Go Build.go build constants.go" />
-        <item itemvalue="Go Build.go build type-inference.go" />
-        <item itemvalue="Go Build.go build type-conversions.go" />
+        <item itemvalue="Go Build.go build functions-continued.go" />
+        <item itemvalue="Go Build.go build for.go" />
         <item itemvalue="Go Build.go build zero.go" />
+        <item itemvalue="Go Build.go build basic-types.go" />
+        <item itemvalue="Go Build.go build constants.go (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +269,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/packages.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/packages.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
@@ -205,28 +279,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/hello.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions-continued.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/functions-continued.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/functions.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exported-names.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/exported-names.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
@@ -236,35 +310,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multiple.results.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/multiple.results.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/named-results.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/named-results.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/variables.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/variables.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/variables-with-initalizers.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/variables-with-initalizers.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/import.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/import.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
@@ -274,35 +348,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/short-variable-declarations.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/short-variable-declarations.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/numeric-constants.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/numeric-constants.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/constants.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/type-inference.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/type-inference.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/type-conversions.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/type-conversions.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
@@ -312,20 +379,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zero.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/zero.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic-types.go">
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/constants.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics_Packages,variables,and functions/basic-types.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#14#45#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions-continued.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exported-names.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-types.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variables.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zero.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiple.results.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics_Flow control statements: for, if, else,switch and defer/for.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
